@@ -158,9 +158,9 @@ int main(void)
   while (1)
   {
    Lcd_cursor(&lcd,0,1);
-   Lcd_string(&lcd,"ABINAYA S\n");
+   Lcd_string(&lcd,"Mohanish K S\n");
    Lcd_cursor(&lcd,1,0);
-   Lcd_string(&lcd,"212222230002\n");
+   Lcd_string(&lcd,"212222100028\n");
    HAL_Delay(100);
   }
 }
@@ -192,10 +192,10 @@ static void MX_GPIO_Init(void)
 
 ```
 ### Output Screenshot of the proteus
-<img height=450 width=450 src="https://github.com/Mohanish7777777/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/111619160/9a59e3c2-b533-4aa1-9ffa-7c7cd605dba5">
+
 
 ### CIRCUIT DIAGRAM 
-<img src="" width=450 height=450>
+<img height=450 width=450 src="https://github.com/Mohanish7777777/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/111619160/9a59e3c2-b533-4aa1-9ffa-7c7cd605dba5">
 
 ### Result :
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
